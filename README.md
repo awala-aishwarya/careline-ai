@@ -432,4 +432,4 @@ The project focuses on natural interaction, reliable appointment operations, con
 B.Tech – Computer Science and Engineering  
 Artificial Intelligence and Machine Learning
 
-Developed as part of the NexovAI SDE Internship Assessment.
+

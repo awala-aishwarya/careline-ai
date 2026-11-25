@@ -1,0 +1,27 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Frontend dependencies
+node_modules/
+dist/
+
+# Temporary files
+*.log
+test_voice.mp3
+
+# Operating system files
+.DS_Store
+Thumbs.db
